@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olek Gierczak"
 title_separator          : "-"
 name                     : &name "Olek Gierczak"
-description              : &description "Programming Languages PhD student at Northeastern University, interested in Compiler Verification"
+description              : &description "Programming Languages PhD student at Northeastern University, interested in Compiler Verification \n \n<ul><li><a style='color: black;' href='https://www.khoury.northeastern.edu/people/olek-gierczak/'>Northeastern Webpage</a></li>"
 url                      : https://olekgierczak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olekgierczak/olekgierczak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olek Gierczak"
   avatar           : "profile.png"
-  bio              : "<ul><li><a style='color: black;' href='https://www.khoury.northeastern.edu/people/olek-gierczak/'>Northeastern Webpage</a></li>"
+  bio              : 
   location         : "Boston, MA"
   employer         :
   pubmed           : 
