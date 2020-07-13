@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Olek Gierczak"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "<ul><li><a style='color: black;' href='https://www.khoury.northeastern.edu/people/olek-gierczak/'>Northeastern Webpage</a></li>"
   location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "gierczak.o@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
