@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olek Gierczak"
   avatar           : "profile.jpg"
-  bio              : "Programming Languages PhD student at Northeastern University, interested in Compiler Verification<br/> <ul><li><a style='color: black;' href='https://www.khoury.northeastern.edu/people/olek-gierczak/'>Northeastern Webpage</a></li>" 
+  bio              : "Programming Languages PhD student at Northeastern University, interested in Compiler Verification" 
   location         : "Boston, MA"
   employer         :
   pubmed           : 
