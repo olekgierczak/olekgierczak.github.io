@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : Olek Gierczak
+title                    : About
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Olek Gierczak"
