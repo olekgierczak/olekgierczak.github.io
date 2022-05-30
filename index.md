@@ -10,7 +10,7 @@ Hi! My name is [Olek](mailto:gierczak.o@northeastern.edu) and I'm a third year P
 
 I'm broadly interested in creating formal models and properties that help researchers understand, compare, and expand programming languages. In particular, I've been interested in Rust and more generally alias management type systems, as well as gradually typed systems, and the distinctions between type soundness and other correctness properties.
 
-#Projects
+# Projects
 
 I've been working on [Oxide](https://arxiv.org/abs/1903.00982), a type safe formalized semantics for surface level safe Rust which includes features like non lexical lifetimes, reborrowing, and closures. The crucial realizations are that lifetimes can be modelled by information from a form of points to analysis, and that this information can be used to give a formal model of the borrowchecker. Using this realization we were able to prove Progress and Preservation style soundness, and demonstrated our type system worked for the portion of the Rust test suite we supported. 
 
