@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Olek Gierczak
 logo: /assets/headshot.jpg
 description: PhD Student at NEU studying PL
+
+github:
+  is_project_page: false
