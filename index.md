@@ -4,7 +4,7 @@ title: Olek Gierczak
 
 # About
 
-Hi! My name is Olek and I'm a third year PhD student studying under [Amal Ahmed](https://www.ccs.neu.edu/home/amal/) at the [Secure Interoperability, Languages, and Compilers](https://silc.ccs.neu.edu/) group, which is part of the [Programming Research Laboratory](https://prl.ccs.neu.edu/) at Northeastern University. Before coming to Northeastern, I worked under [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/) and [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) at the University of Pennsylvania.
+Hi! My name is [Olek](mailto:gierczak.o@northeastern.edu) and I'm a third year PhD student studying under [Amal Ahmed](https://www.ccs.neu.edu/home/amal/) at the [Secure Interoperability, Languages, and Compilers](https://silc.ccs.neu.edu/) group, which is part of the [Programming Research Laboratory](https://prl.ccs.neu.edu/) at Northeastern University. Before coming to Northeastern, I worked under [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/) and [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) at the University of Pennsylvania.
 
 # Research Interests
 
@@ -18,3 +18,6 @@ I've started working on a type preserving compilation of Oxide down to a lower l
 
 # Publications
 
+[Oxide: The Essence of Rust](https://arxiv.org/abs/1903.00982)
+Aaron Weiss, Olek Gierczak, Daniel Patterson, Amal Ahmed.
+On arXiv, October 2021.
