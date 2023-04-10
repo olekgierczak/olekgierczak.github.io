@@ -58,8 +58,8 @@ interactions between the features in Oxide.
 # Publications
 
 [Type Vigilance And The Truth About Transient Gradual Typing,](http://olekg.pl/papers/vigilance.pdf) Olek Gierczak, Lucy
-Menon, Christos Dimoulas, Amal Ahmed. In Submission PLDI 2023,
-November 2022. [Technical Appendix](http://olekg.pl/papers/vigilance-techreport.pdf)
+Menon, Christos Dimoulas, Amal Ahmed. In Submission ICFP 2023,
+March 2023. [Technical Appendix](http://olekg.pl/papers/vigilance-techreport.pdf)
 
 [Oxide: The Essence of Rust,](https://arxiv.org/abs/1903.00982)
 Aaron Weiss, Olek Gierczak, Daniel Patterson, Amal Ahmed.
