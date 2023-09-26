@@ -42,7 +42,7 @@ by information from a form of points to analysis, and that this
 information can be used to give a formal model of the borrowchecker.
 Using this realization we were able to prove Progress and Preservation
 style soundness, and demonstrated our type system worked for the
-portion of the Rust test suite we supported. 
+portion of the Rust test suite we supported.
 
 I've additionally been working on a type preserving compilation of
 Oxide down to a lower level intermediate language based on [Paul
@@ -53,13 +53,13 @@ where we have a core safety sensitive component interacting with
 unsafe code. The goal is to preserve Oxide types by mapping them to a
 range of capabilities, some already well understood in the field, and
 some new but fundamental, that are sufficient to model the
-interactions between the features in Oxide. 
+interactions between the features in Oxide.
 
 # Publications
 
 [Type Vigilance And The Truth About Transient Gradual Typing,](http://olekg.pl/papers/vigilance.pdf) Olek Gierczak, Lucy
-Menon, Christos Dimoulas, Amal Ahmed. In Submission ICFP 2023,
-March 2023. [Technical Appendix](http://olekg.pl/papers/vigilance-techreport.pdf)
+Menon, Christos Dimoulas, Amal Ahmed. In Submission PoPL 2024,
+July 2023. [Technical Appendix](http://olekg.pl/papers/vigilance-techreport.pdf)
 
 [Oxide: The Essence of Rust,](https://arxiv.org/abs/1903.00982)
 Aaron Weiss, Olek Gierczak, Daniel Patterson, Amal Ahmed.
