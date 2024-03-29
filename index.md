@@ -34,7 +34,7 @@ I'm currently working on a semantic model and type system for surface level safe
 Compared to Oxide, Aecia's type system will build on the work (incorporating lessons learned along
 the way), but the semantic model and operational semantics are novel. Our operational semantics gets
 stuck not only when memory safety is violated, but also when the principles of the borrowing
-discipline are violated. It is based on [Stacked Borrows](), but specialized for safe surface Rust,
+discipline are violated. It is based on [Stacked Borrows](https://plv.mpi-sws.org/rustbelt/stacked-borrows/), but specialized for safe surface Rust,
 meaning a much stricter meaning of borrow is enforced. We will use the semantic model to show that
 the type system indeed enforces this meaning of a borrow, and as a side effect produce a program
 logic with primitives that behave like separation logic, enabling source based verification of Rust.
