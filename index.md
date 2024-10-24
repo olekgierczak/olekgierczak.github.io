@@ -41,7 +41,7 @@ logic with primitives that behave like separation logic, enabling source based v
 
 # Publications
 
-[Type Vigilance And The Truth About Transient Gradual Typing,](http://olekg.pl/papers/vigilance.pdf) Olek Gierczak, Lucy
+[Gradually Typed Languages Should Be Vigilant!,](http://olekg.pl/papers/vigilance.pdf) Olek Gierczak, Lucy
 Menon, Christos Dimoulas, Amal Ahmed. Accepted in OOPSLA 2024 Round 1,
 March 2024. [Technical Appendix](http://olekg.pl/papers/vigilance-techreport.pdf)
 
