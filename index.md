@@ -4,7 +4,7 @@ title: Olek Gierczak
 
 # About
 
-Hi! My name is [Olek](mailto:gierczak.o@northeastern.edu) and I'm a third year
+Hi! My name is [Olek](mailto:gierczak.o@northeastern.edu) and I'm a sixth year
 PhD student studying under [Amal Ahmed](https://www.ccs.neu.edu/home/amal/) at
 the [Secure Interoperability, Languages, and
 Compilers](https://silc.ccs.neu.edu/) group, which is part of the [Programming
